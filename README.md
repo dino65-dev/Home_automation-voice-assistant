@@ -44,7 +44,7 @@
 4. **Configure the MQTT Broker: Edit the ```MQTT_BROKER``` and ```MQTT_PORT``` values in the code to point to your MQTT broker.**
 5. **Run the voice assistant:**
    ```bash
-   python home_automation.py
+   python home_automation-voice-assistant.py
 ---
 ### 🔧 Usage
 This assistant listens for voice commands to control home automation devices. It recognizes various commands for different devices based on the configuration in ```devices.json```.
