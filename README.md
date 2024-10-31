@@ -26,8 +26,8 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/advanced-home-automation-voice-assistant.git
-   cd advanced-home-automation-voice-assistant
+   git clone https://github.com/dino65-dev/Home_automation-voice-assistant.git
+   cd home_automation-voice-assistant
 2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
