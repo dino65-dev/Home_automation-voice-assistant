@@ -50,14 +50,16 @@
 This assistant listens for voice commands to control home automation devices. It recognizes various commands for different devices based on the configuration in ```devices.json```.
 
 **Available Commands**
-- **Basic Commands:**
+1. **Basic Commands:**
 - "Turn on the lights."
 - "Switch off the fan."
 - "Set the AC to temperature up."
-- **Multi-Device Commands:**
+
+2. **Multi-Device Commands:**
 - "Turn off the lights and fan."
 - "Set TV to volume up and AC to temperature down."
-- **Scheduled Commands:**
+  
+3. **Scheduled Commands:**
 - "Turn on the lights in 10 minutes."
 - "Switch off the fan in 1 hour."
 ---
